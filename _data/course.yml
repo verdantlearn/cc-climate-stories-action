@@ -1,3 +1,3 @@
-title: Course-in-a-Box
-description: An open-source project for creating online courses, built by <a href="https://www.p2pu.org">P2PU</a>
-modules: [setup, content, customize]
+title: Course title - edit in _data/course.yml
+description: Course description - edit in _data/course.yml.  Include a url like this - built by <a href="http://www.verdantlearn.com">VerdantLearn</a>
+modules: [module0, module1]
