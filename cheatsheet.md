@@ -68,5 +68,11 @@ If you want to place a video in your course, the easiest way is to upload it to 
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
+<br>
+
+----
+#### CSS and styling
+
+Hire a developer to make changes beyond the small edits I've made to adding VerdantLearn's two greens, and using the darker green occasionally
 
 <br>
