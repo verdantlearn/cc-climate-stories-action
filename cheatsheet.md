@@ -8,7 +8,6 @@ To add a new module, create a new folder within the `modules` folder, and within
 To list your new module in the top menu, add it to `_data/course.yml`
 
 
-
 <br>
 
 ----
@@ -52,9 +51,7 @@ If you're using an image that is already uploaded somewhere, you can copy the UR
 
 You can also host images for your course for free through GitHub. Head to the `img` folder, click *Add File > Upload Files* (top right above the list of files), and use the upload tool to add your images. When you add an image to your course, you'll link to it with the code below and replace `logo.png` with the name of the image.
 
-```
-![alt]({{site.baseurl}}/img/logo.png)
-```
+
 ![alt]({{site.baseurl}}/img/logo.png)
 
 <br>
@@ -65,9 +62,6 @@ If you want to place a video in your course, the easiest way is to upload it to 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
 <br>
 
 ----

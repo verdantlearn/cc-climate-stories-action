@@ -5,6 +5,8 @@ published: true
 
 Welcome to VerdantLearn's latest open online course in techniques for biodiversity conservation!
 
+You can navigate through the course using the menu bar at the top of this page 
+
 <br> 
 
 #### Other learning opportunities

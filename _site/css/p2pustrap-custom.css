@@ -7,8 +7,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --vl-green-dark: #007a17;
-  --vl-green-light: #8ed6a0;
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -8453,7 +8451,7 @@ section {
 
 footer {
   padding: 2em 0;
-  background-color: #007a17;
+  background-color: #707782;
   color: #F3F4F8;
   text-align: center;
   font-size: 12pt; }
