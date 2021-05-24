@@ -1,0 +1,285 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+	<script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
+	<meta charset="utf-8">
+	<!--[if IE]><meta content='IE=8' http-equiv='X-UA-Compatible' /><![endif]-->
+
+	<title>Course title - edit in _data/course.yml | Links</title>
+  <meta name="description" content="Course description - edit in _data/course.yml.  Include a url like this - built by VerdantLearn">
+  <meta name="author" content="">
+
+  <meta property="og:title" content="Course title - edit in _data/course.yml" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="shortcut icon" href="/img/favicon.ico">
+
+	<link rel="stylesheet" href="/css/p2pustrap-custom.css" />
+	<link rel="stylesheet" href="/css/site.css" />
+  
+
+	<link rel="shortcut icon" href="/img/favicon.ico">
+	<script type="text/javascript" src="/js/modernizr-2.6.2.min.js"></script>
+</head>
+<body 
+      class="d-flex flex-column min-vh-100">
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-md py-0 .navbar-dark bg-dark text-light">
+  <a class="navbar-brand" href="/"><i class="fa fa-home"></i></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fa fa-bars"></i>
+  </button>
+
+  <div class="navbar-collapse collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      
+       
+       <li class="nav-item py-2 active">
+         <a class="nav-link" href="/modules/intro/using-jekyll/">
+           intro
+         </a>
+       </li>
+      
+       
+       <li class="nav-item py-2">
+         <a class="nav-link" href="/modules/embed/padlet/">
+           embed
+         </a>
+       </li>
+      
+<!--
+      <li class="nav-item py-2">
+        <a class="nav-link" href="https://www.p2pu.org/en/" target="_blank">Example Link</a>
+      </li>
+-->
+    </ul>
+  </div>
+</nav>
+
+
+
+<div class="container-fluid d-flex flex-grow-1 flex-column">
+  <div class="row flex-grow-1">
+		<div class="sidebar col-md-3">
+	
+
+
+
+
+
+
+
+	
+	<ul>
+		
+			<li class=" first ">
+				<a href="/modules/intro/using-jekyll/">
+					Using Jekyll
+				</a>
+			</li>
+		
+			<li class="  ">
+				<a href="/modules/intro/modules/">
+					Modules
+				</a>
+			</li>
+		
+			<li class="  ">
+				<a href="/modules/intro/images/">
+					Images
+				</a>
+			</li>
+		
+			<li class="active  ">
+				<a href="/modules/intro/links/">
+					Links
+				</a>
+			</li>
+		
+			<li class="  ">
+				<a href="/modules/intro/buttons/">
+					Buttons
+				</a>
+			</li>
+		
+			<li class="  ">
+				<a href="/modules/intro/css-styling/">
+					CSS and styling
+				</a>
+			</li>
+		
+			<li class="  ">
+				<a href="/modules/intro/download-files/">
+					Download files
+				</a>
+			</li>
+		
+			<li class="  ">
+				<a href="/modules/intro/drafting/">
+					Drafting
+				</a>
+			</li>
+		
+			<li class="  ">
+				<a href="/modules/intro/unpublished/">
+					Unpublished post
+				</a>
+			</li>
+		
+			<li class="  last">
+				<a href="/modules/intro/future-dated/">
+					Future-dated post
+				</a>
+			</li>
+		
+	</ul>
+	
+		<hr>
+		<div class="pagination-section">
+			<div class="title">
+				Next module:
+			</div>
+			<a rel="next" class="next" href="/modules/embed/padlet/"> embed
+			</a>
+		</div>
+	
+</div>
+
+		<div class="col-xl-6 col-md-9 bg-white">
+			<div class="content p-md-2">
+				<h2 id="using-links">Using links</h2>
+
+<h3 id="links-within-a-page">Links within a page</h3>
+
+<p>Enable kramdown’s <em>auto_ids</em> feature in <code class="language-plaintext highlighter-rouge">_config.yml</code> to give each heading an id ref based on the heading text:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="ss">kramdown:
+    auto_ids: </span><span class="kp">true</span>
+</code></pre></div></div>
+
+<p>Link to a heading from within the same document by using the auto-generated anchor, for example:</p>
+
+<blockquote>
+  <p>Find out how to link to other pages by visiting the <a href="#links-to-other-pages">Links to other pages</a> section</p>
+</blockquote>
+
+<p>You can assign an explicit id if you prefer:</p>
+
+<blockquote>
+  <p>To learn how to include emojis, see the <a href="#emoji">Emojis section</a> below</p>
+</blockquote>
+
+<h3 id="links-to-other-pages">Links to other pages</h3>
+<p>To link to another page within the site, use a liquid tag:</p>
+
+<p>View the info page on <a href="/modules/embed/video/">embedding videos</a> in the Embed module</p>
+
+<blockquote>
+  <p>This doesn’t seem to work on subsites, where courses are subdirectories of main Github page!</p>
+</blockquote>
+
+<h3 id="emoji">Emojis</h3>
+
+<p>Add the following to your site’s _config.yml</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">plugins</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">jemoji</span>
+</code></pre></div></div>
+
+<p>Then activate the Jemoji gem by adding this line to your Gemfile:</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span> <span class="s1">'jemoji'</span>
+</code></pre></div></div>
+
+<p>Some examples of emojis:</p>
+<ul>
+  <li>
+<img class="emoji" title=":lion:" alt=":lion:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f981.png" height="20" width="20"> <code class="language-plaintext highlighter-rouge">:lion:</code>
+</li>
+  <li>
+<img class="emoji" title=":tiger:" alt=":tiger:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f42f.png" height="20" width="20"> <code class="language-plaintext highlighter-rouge">:tiger:</code>
+</li>
+  <li>
+<img class="emoji" title=":scream_cat:" alt=":scream_cat:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f640.png" height="20" width="20"> <code class="language-plaintext highlighter-rouge">:scream_cat:</code>
+</li>
+  <li>
+<img class="emoji" title=":persevere:" alt=":persevere:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f623.png" height="20" width="20"> <code class="language-plaintext highlighter-rouge">:persevere:</code>
+</li>
+  <li>
+<img class="emoji" title=":heart:" alt=":heart:" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" height="20" width="20"> <code class="language-plaintext highlighter-rouge">:heart:</code>
+</li>
+</ul>
+
+<p>You can find more emoji codes on the Emoji (jemoji) cheatsheet: <a href="https://www.webfx.com/tools/emoji-cheat-sheet/">https://www.webfx.com/tools/emoji-cheat-sheet/</a></p>
+
+
+				
+
+
+
+
+
+				<hr>
+        <div class="row">
+					<div class="pagination-section col-sm-6">
+				
+						<div class="title">
+							Previous submodule:
+						</div>
+						<a rel="prev" class="prev" href="/modules/intro/images/">
+							Images </a>
+				
+					</div>
+				
+					<div class="pagination-section text-sm-right col-sm-6">
+						<div class="title">
+							Next submodule:
+						</div>
+						<a rel="next" class="next" href="/modules/intro/buttons/"> Buttons
+						</a>
+					</div>
+				
+        </div>
+			</div>
+		</div>
+  </div>
+</div>
+
+
+<footer class="mt-auto">
+  <div class="container-fluid">
+  <p>Built using <a href="https://course-in-a-box.p2pu.org">Course in a Box</a>, a project of <a href="https://www.p2pu.org">P2PU</a>.</p>
+
+  <!-- <p>Unless otherwise noted, all the materials on this site are licensed under a <a target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 license</a>.</p> -->
+  </div>
+</footer>
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script src="/js/init.js"></script>
+<script src="/js/gh_link_helper.js"></script>
+
+
+
+<script>
+	P2PU.ciab.init();
+</script>
+
+<!-- Google Analytics -->
+
+
+</body>
+</html>

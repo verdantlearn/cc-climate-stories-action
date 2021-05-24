@@ -33,3 +33,11 @@ jumbotron_color: "#008000"
 jumbotron_image: "img/jumbotron-image.jpg"
 jumbotron_mask: "img/jumbotron-mask.svg"
 jumbotron_icon: "img/jumbotron-logo.png"
+
+# Enable auto-ids to create anchor links within pages
+kramdown:
+    auto_ids: true
+
+# Add emojis
+plugins:
+  - jemoji
