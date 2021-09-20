@@ -3,23 +3,14 @@ layout: index
 published: true
 ---
 
-Welcome to VerdantLearn's latest open online course in techniques for biodiversity conservation!
+This online resource is being created during the Creative Commons Global Summit 2021 to document:
+- Our community's lived experience of climate change (**Stories**), and
+- How we are reducing our own carbon footprint, and leveraging change around us (**Action**)
 
-You can navigate through the course using the menu bar at the top of this page 
+See the session joining information <a href="https://sched.co/lhJQ">here</a>
 
-<br> 
+Our focus is on optimism and empowerment, sharing inspiration and ideas for positive, achievable action at this critical point in time.  This community is uniquely placed to combine and disseminate our knowledge in a way that is accessible, inclusive and grounded in everyday life
 
-#### Other learning opportunities
- ❤️
+You can navigate through this resource using the menu bar at the top of this page 
 
-* GIS refresher courses sign-up
-* OE4BW sign-up
-* Join our [mailing list](https://verdantlearn-gis-refreshers-may2021.webflow.io/maillist) to keep up-to-date
-
-<br> 
-
-#### Need some help?
-Visit our [community forum](forum url) is a great place to ask questions or find help when you get stuck.  Feel free to post there anytime!
-
-<br> 
-
+If this is your first time here, please click on 'Instructions' above :point_up:
