@@ -1,6 +1,0 @@
----
-title: Process
----
-
-# Hackathon process
-
