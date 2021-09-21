@@ -1,7 +1,8 @@
 ---
-title: Action Preview
+title: Preview of Action
 ---
 
+# Preview of climate actions
 
 Preview of collaborative document on Cryptpad:
 

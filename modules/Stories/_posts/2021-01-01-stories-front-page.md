@@ -1,9 +1,9 @@
 ---
-title: Preview of Stories
+title: Climate Stories
 ---
 
+# Add your climate stories
 
+Open this link in a new browser tab to contribute your actions!
 
-Preview of collaborative document on Cryptpad:
-
-<iframe width="100%" height="600" src="https://cryptpad.fr/code/#/2/code/view/JsACApIBhzFJDqtWtQ8RaNMODN3wrcn1x9c4NKblI+g/embed/"></iframe>
+[https://cryptpad.fr/code/#/2/code/edit/lpIyDyQl83TS5M+OkMCDdDc4/](https://cryptpad.fr/code/#/2/code/edit/lpIyDyQl83TS5M+OkMCDdDc4/)

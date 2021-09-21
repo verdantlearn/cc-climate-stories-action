@@ -4,8 +4,8 @@ published: true
 ---
 
 This online resource is being created during the Creative Commons Global Summit 2021 to document:
-- Our community's lived experience of climate change (**Stories**), and
-- How we are reducing our own carbon footprint, and leveraging change around us (**Action**)
+- **Stories**: Our community's lived experience of climate change, and
+- **Action**: How we are reducing our own carbon footprint, and leveraging change around us
 
 See the session joining information <a href="https://sched.co/lhJQ">here</a>
 

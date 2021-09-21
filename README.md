@@ -3,9 +3,6 @@
 A resource created during the Creative Commons Global Summit session [Climate Stories, Climate Action: Our Community's Response to the Climate Crisis - Hackathon and Live Course Creation](https://sched.co/lhJQ)
 
 
-https://ccglobalsummit2021.sched.com/event/lhJQ
-
-
 ---
 
 ## Licence

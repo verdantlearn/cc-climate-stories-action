@@ -1,8 +1,9 @@
 ---
-title: Preview of Action
+title: Climate Action
 ---
 
+# Add your climate actions
 
-Preview of collaborative document on Cryptpad:
+Open this link in a new browser tab to contribute your stories!
 
-<iframe width="100%" height="600" src="https://cryptpad.fr/code/#/2/code/view/asrU7I-s31SreHEFmsq0Us+BWAaK0F+HDAp6iHErxtY/embed/"></iframe>
+[https://cryptpad.fr/code/#/2/code/edit/wOCamf5Oe4qvl7UMxeAyb0Bl/](https://cryptpad.fr/code/#/2/code/edit/wOCamf5Oe4qvl7UMxeAyb0Bl/)

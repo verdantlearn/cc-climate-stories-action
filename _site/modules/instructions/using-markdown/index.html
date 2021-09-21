@@ -139,38 +139,72 @@
 
 		<div class="col-xl-6 col-md-9 bg-white">
 			<div class="content p-md-2">
-				<h1 id="using-markdown">Using Markdown</h1>
+				<h1 class="no_toc" id="using-markdown">Using Markdown</h1>
 
 <p>We’ll be using a simple language called Markdown to format our collaboratively-created resources</p>
 
 <p>Markdown allows you to format text simply by prefacing or surrounding your text with special characters</p>
+
+<ul id="markdown-toc">
+  <li><a href="#headings" id="markdown-toc-headings">Headings</a></li>
+  <li><a href="#adding-emphasis" id="markdown-toc-adding-emphasis">Adding emphasis</a></li>
+  <li><a href="#lists" id="markdown-toc-lists">Lists</a></li>
+  <li><a href="#links" id="markdown-toc-links">Links</a></li>
+  <li><a href="#images" id="markdown-toc-images">Images</a></li>
+  <li><a href="#embed-from-other-pages" id="markdown-toc-embed-from-other-pages">Embed from other pages</a></li>
+  <li><a href="#troubleshooting" id="markdown-toc-troubleshooting">Troubleshooting</a></li>
+</ul>
 
 <h2 id="headings">Headings</h2>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Heading 1
 ## Heading 2
 ### Heading 3
-
-normal font
 </code></pre></div></div>
 
 <h2 id="adding-emphasis">Adding emphasis</h2>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**bold**
-*italics*
-&gt; Quote
+<p>Example:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**bold**  
 </code></pre></div></div>
+<p>Looks like this: <strong>bold</strong></p>
+
+<p>Example:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*italics*  
+</code></pre></div></div>
+<p>Looks like this: <em>italics</em></p>
+
+<p>Example:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; Quote
+</code></pre></div></div>
+<p>Looks like this:</p>
+<blockquote>
+  <p>Quote</p>
+</blockquote>
 
 <h2 id="lists">Lists</h2>
-
+<p>Examples:</p>
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1. Numbered list
 2. Second item in list
 
 - Bullet points
 
 - [ ] Task with checkbox
-- [ ] Completed task
+- [x] Completed task
 </code></pre></div></div>
+<p>Looks like this:</p>
+<ol>
+  <li>Numbered list</li>
+  <li>Second item in list</li>
+</ol>
+
+<ul class="task-list">
+  <li>
+    <p>Bullet points</p>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Task with checkbox</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Completed task</li>
+</ul>
 
 <h2 id="links">Links</h2>
 
@@ -179,10 +213,11 @@ normal font
   <li>Place the url immediately after (no space between), within round parentheses ()</li>
 </ol>
 
-<p>Example: <a href="https://sched.co/lhJQ">This session on Sched</a></p>
+<p>Example:</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[This session on Sched](https://sched.co/lhJQ)
 </code></pre></div></div>
+<p>Looks like this: <a href="https://sched.co/lhJQ">This session on Sched</a></p>
 
 <h2 id="images">Images</h2>
 
@@ -192,17 +227,17 @@ normal font
   <li>Append the url surrounded by round parentheses ()</li>
 </ol>
 
-<p>Cryptpad may block display of external images, but once our shared work is imported to Course-in-a-Box, your image will display</p>
+<p>Cryptpad may block display of external images, but once our shared work is imported to Course-in-a-Box, your image will display properly</p>
 
-<p>Example: <img src="https://live.staticflickr.com/5086/5348818542_b8b032a47b_n.jpg" alt="Flooded street in Brisbane" />
-<a href="https://www.flickr.com/photos/erikveland/5348818542">CC-BY-NC Erik Veland</a></p>
-
+<p>Example, including image credit as link:</p>
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![alt text for image](https://live.staticflickr.com/5086/5348818542_b8b032a47b_n.jpg)
+[Erik Veland, CC-BY-NC](https://www.flickr.com/photos/erikveland/5348818542)
 </code></pre></div></div>
+<p>Looks like this: <img src="https://live.staticflickr.com/5086/5348818542_b8b032a47b_n.jpg" alt="Flooded street in Brisbane" /> <a href="https://www.flickr.com/photos/erikveland/5348818542">Erik Veland, CC-BY-NC</a></p>
 
 <h2 id="embed-from-other-pages">Embed from other pages</h2>
 
-<p>Copy the embed code from the source website and paste it into the document.  Cryptpad may block display of external media, but once our shared work is imported to Course-in-a-Box, your media will display</p>
+<p>Copy the embed code from the source website and paste it into the document.  Cryptpad may block display of external media, but once our shared work is imported to Course-in-a-Box, your media will display properly</p>
 
 <h2 id="troubleshooting">Troubleshooting</h2>
 
