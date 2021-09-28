@@ -2,8 +2,48 @@
 title: Climate Action
 ---
 
-# Add your climate actions
+# Climate Action
 
-Open this Cryptpad link in a new browser tab to contribute your action!  :fireworks:
+## Action
 
-[https://cryptpad.fr/code/#/2/code/edit/wOCamf5Oe4qvl7UMxeAyb0Bl/](https://cryptpad.fr/code/#/2/code/edit/wOCamf5Oe4qvl7UMxeAyb0Bl/)
+What action are you taking to tackle the climate crisis?
+
+
+**Lorenzo Ci**, *Activist/Filmmaker based in Florence, Italy.*
+>I've always used storytelling as a tool to connect with other people. Inspired by several examples I came across in the years before I started to act on the local community, around the Florence City area. I launched a *Transition Town*, inspired by the international Transition network [https://transitionnetwork.org], inviting my town to invent together solutions to climate change problems. Now the community works very well, check it out at [www.valdisieveintransizione.org], it's all distributed in *Creative Commons! :D*
+
+**Curt Newton**, *Boston*
+> Do (at least) one thing on climate change every day. A conversation with someone you bump into definitely counts. :green_heart:
+
+> Facilitate group conversations about what matters and what works, using the Climate Interactive En-ROADS simulation model [https://www.climateinteractive.org/tools/en-roads/] 
+
+> This simple Venn Diagram from Dr. Ayanna Elizabeth Johnson is a fabulous resource for "I want to do something, not sure what..." conversations [https://www.instagram.com/p/CMrzjtVHu0U/]
+
+**Lucy Tallents**, *Biodiversity conservationist, educator and entrepreneur*, Belfast
+> Eating more vegan meals, and using alternatives to dairy milk  
+Voting for political parties with policies that support tackling climate change  
+Reducing use of plastics
+
+## Motivation
+What motivates you to take action?
+
+> My young child deserves to live in a world with a stable climate  
+Care for the existence rights of other species  
+
+
+## Removing barriers
+
+What actions do you want to take but haven't done so yet?  
+
+
+
+What is holding you back?
+
+- Not knowing what is the best way to commit my limited time and energy
+
+
+Can this community help?
+
+
+
+
