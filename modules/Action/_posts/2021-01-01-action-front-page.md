@@ -24,26 +24,3 @@ What action are you taking to tackle the climate crisis?
 Voting for political parties with policies that support tackling climate change  
 Reducing use of plastics
 
-## Motivation
-What motivates you to take action?
-
-> My young child deserves to live in a world with a stable climate  
-Care for the existence rights of other species  
-
-
-## Removing barriers
-
-What actions do you want to take but haven't done so yet?  
-
-
-
-What is holding you back?
-
-- Not knowing what is the best way to commit my limited time and energy
-
-
-Can this community help?
-
-
-
-
